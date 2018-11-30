@@ -20,6 +20,11 @@ There seems to exist betting strategies that would be profitable. This is howeve
 
 The following result is obtained using the English Premier League seasons 17-18, 16-17 and 15-16, running the MAIN with examine_data = 1.
 
-
+<img src="/figures/diff_H.png" width="400">
+<img src="/figures/diff_D.png" width="400">
+<img src="/figures/diff_A.png" width="400">
 
 The following result is obtained using the English Premier League seasons 17-18, 16-17 and 15-16, running the MAIN with testing_hypothesis = 1.
+
+<img src="/figures/profit_by_bet.png" width="400">
+<img src="/figures/profit.png" width="400">
