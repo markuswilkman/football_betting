@@ -19,7 +19,7 @@ test_hypotesis = 0;
     bet_size_strategy_enabled = 1;
 
 D_perc_interval = 0.25;
-perc_of_betsites_stsf_D = 0.60;
+perc_of_betsites_stsf_D = 0.6;
 W_perc_interval = 0.4;
 perc_of_betsites_stsf_W = 0.6;
 
