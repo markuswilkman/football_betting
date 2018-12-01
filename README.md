@@ -28,3 +28,7 @@ The following result is obtained using the English Premier League seasons 17-18,
 
 <img src="/figures/profit_by_bet.png" width="400">
 <img src="/figures/profit.png" width="400">
+
+Finally some performance metrix is printed.
+
+
