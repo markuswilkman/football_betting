@@ -30,5 +30,5 @@ The following result is obtained using the English Premier League seasons 17-18,
 <img src="/figures/profit.png" width="400">
 
 Finally some performance metrix is printed.
-
+<img src="/figures/performance.png" width="700">
 
